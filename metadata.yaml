@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7040
     wikipedia: http://en.wikipedia.org/wiki/John_Wesley_Powell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21033#Sketch-of-the-Mythology-of-the-North-American-IndiansGovernment-Printing-Office-Washington-18_
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2007-04-11'
 gutenberg_type: Text
